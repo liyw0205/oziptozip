@@ -2,7 +2,9 @@
 
 # [使用教程点我](https://www.coolapk.com/feed/37182642?shareKey=Zjc2MGYyYTExY2IzNjJiZTgzZGM~&shareUid=19926645&shareFrom=com.coolapk.market_12.3)
 
+# [库源地](https://github.com/bkerler/oppo_ozip_decrypt)
 # oppo_decrypt_ozip
+
 Oppo/Oneplus .ozip Firmware decrypter
 ------------------------------------
 
