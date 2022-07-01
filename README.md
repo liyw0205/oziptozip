@@ -1,3 +1,7 @@
+<img src = "https://github.com/3418359665/Meitu/blob/main/%E5%A4%87%E4%BB%BD/illust_97882755_20220427_130831.png" >
+
+# [使用教程点我](https://www.coolapk.com/feed/37182642?shareKey=Zjc2MGYyYTExY2IzNjJiZTgzZGM~&shareUid=19926645&shareFrom=com.coolapk.market_12.3)
+
 # oppo_decrypt_ozip
 Oppo/Oneplus .ozip Firmware decrypter
 ------------------------------------
